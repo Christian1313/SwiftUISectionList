@@ -81,7 +81,6 @@
 		6EE854D3266E47B400A015D0 /* SwiftUISectionList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUISectionList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EE854D5266E47B400A015D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6EE854D6266E47B400A015D0 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
-		6EE854EB266E488300A015D0 /* File */ = {isa = PBXFileReference; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 		6EE854EC266E489A00A015D0 /* DataModel+Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DataModel+Store.swift"; sourceTree = "<group>"; };
 		6EE8553D266E502C00A015D0 /* SwiftUISectionList (Watch).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUISectionList (Watch).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EE85540266E502D00A015D0 /* SwiftUISectionList (Watch) WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUISectionList (Watch) WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -134,7 +133,6 @@
 		6EE854BE266E47AE00A015D0 = {
 			isa = PBXGroup;
 			children = (
-				6EE854EB266E488300A015D0 /* File */,
 				6EE854C3266E47AF00A015D0 /* Shared */,
 				6EE854CD266E47B400A015D0 /* iOS */,
 				6EE854D4266E47B400A015D0 /* macOS */,
