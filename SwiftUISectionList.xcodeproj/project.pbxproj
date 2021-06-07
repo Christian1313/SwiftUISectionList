@@ -73,6 +73,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6E4CE013266E532B004B2B9D /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		6EE854C4266E47AF00A015D0 /* SwiftUISectionListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISectionListApp.swift; sourceTree = "<group>"; };
 		6EE854C5266E47AF00A015D0 /* SectionListViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionListViews.swift; sourceTree = "<group>"; };
 		6EE854C6266E47B400A015D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -133,6 +134,7 @@
 		6EE854BE266E47AE00A015D0 = {
 			isa = PBXGroup;
 			children = (
+				6E4CE013266E532B004B2B9D /* Readme.md */,
 				6EE854C3266E47AF00A015D0 /* Shared */,
 				6EE854CD266E47B400A015D0 /* iOS */,
 				6EE854D4266E47B400A015D0 /* macOS */,
